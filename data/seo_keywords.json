@@ -1,0 +1,14 @@
+[
+    {"keyword": "student networking", "volume": 8900, "difficulty": 45, "cpc": 1.25},
+    {"keyword": "business consulting Toronto", "volume": 3200, "difficulty": 78, "cpc": 8.50},
+    {"keyword": "entrepreneur opportunities", "volume": 5600, "difficulty": 52, "cpc": 2.10},
+    {"keyword": "student career development", "volume": 12500, "difficulty": 38, "cpc": 1.85},
+    {"keyword": "university partnerships", "volume": 2800, "difficulty": 65, "cpc": 3.75},
+    {"keyword": "professional networking events", "volume": 7200, "difficulty": 58, "cpc": 2.95},
+    {"keyword": "student job opportunities", "volume": 18900, "difficulty": 72, "cpc": 1.95},
+    {"keyword": "business mentorship", "volume": 4100, "difficulty": 48, "cpc": 4.20},
+    {"keyword": "startup internships", "volume": 6700, "difficulty": 55, "cpc": 2.65},
+    {"keyword": "Toronto student jobs", "volume": 15200, "difficulty": 68, "cpc": 1.75},
+    {"keyword": "entrepreneurship education", "volume": 3600, "difficulty": 42, "cpc": 3.10},
+    {"keyword": "career guidance students", "volume": 9800, "difficulty": 35, "cpc": 2.45}
+]
